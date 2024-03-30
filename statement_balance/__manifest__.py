@@ -23,8 +23,6 @@
         'views/account_bank_statement_view.xml',
     ],
 
-    # 'images': ['static/description/icon.png'],
-
     'live_test_url': 'https://www.youtube.com/watch?v=SpFJmHVyMKg',
 
 }
