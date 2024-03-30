@@ -15,6 +15,8 @@
     
     'version': '14.0.0.1',
 
+    'license': 'AGPL-3',
+
     'depends': ['base', 'account'],
 
     'data': [
@@ -23,6 +25,6 @@
 
     'images': ['static/description/logo.png'],
 
-    'live_test_url': 'static/description/logo.png',
+    # 'live_test_url': 'static/description/logo.png',
 
 }
