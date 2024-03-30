@@ -23,7 +23,7 @@
         'views/account_bank_statement_view.xml',
     ],
 
-    'images': ['static/description/logo.png'],
+    'images': ['static/description/icon.png'],
 
     # 'live_test_url': 'static/description/logo.png',
 
