@@ -13,7 +13,7 @@
 
     'category': 'Accounting/Accounting',
     
-    'version': '14.0.0.1',
+    'version': '15.0.0.1',
 
     'depends': ['base', 'account'],
 
