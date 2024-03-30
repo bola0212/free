@@ -15,7 +15,7 @@
     
     'version': '15.0.0.1',
     
-    'license": "AGPL-3',
+    'license': 'AGPL-3',
 
     'depends': ['base', 'account'],
 
